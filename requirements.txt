@@ -1,0 +1,8 @@
+streamlit
+openai
+rembg
+pillow
+moviepy
+numpy
+requests
+watchdog
